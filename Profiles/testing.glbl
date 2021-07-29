@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>testing</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://tester1.test.apps360.id/login'</initValue>
+      <name>LoginURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hrd@bigio.id'</initValue>
+      <name>emailHRD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hrdbigio'</initValue>
+      <name>passwordHRD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ceo@bigio.id'</initValue>
+      <name>emailCEO</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ceobigio'</initValue>
+      <name>passwordCEO</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://tester1.test.apps360.id/'</initValue>
+      <name>ApplyURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
