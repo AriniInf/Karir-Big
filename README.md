@@ -5,5 +5,5 @@
 ### Video temuan Bug yang major https://www.loom.com/share/e144bbe50b244632a08af18032f5eaf4
 
 ## Disini pengujian automasi dilakukan menggunakan Katalon Studio
-## Test case automasi yang dapat dijalankan pada file di setiap Folder Test Cases
-## Test suite pada folder Test Suites
+# Test case automasi yang dapat dijalankan pada file di setiap Folder Test Cases
+# Test suite pada folder Test Suites
